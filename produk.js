@@ -4,6 +4,7 @@
 
 const TOKO = {
   nama: "Toko Rekomendasi",
+  logo:"logo.jpg",
   slogan: "Produk pilihan dengan harga terbaik. Masukkan kode produk untuk mencari.",
   // false = semua produk tampil. true = produk hanya tampil setelah kode diketik.
   hanyaTampilJikaKode: false,
