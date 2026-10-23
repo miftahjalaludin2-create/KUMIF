@@ -4,7 +4,7 @@
 
 const TOKO = {
   nama: "kumifshop",
-  logo:"logo.jpg",
+  logo:"LOGO.JPG",
   slogan: "Produk pilihan dengan harga terbaik. Masukkan kode produk untuk mencari.",
   // false = semua produk tampil. true = produk hanya tampil setelah kode diketik.
   hanyaTampilJikaKode: false,
